@@ -1,7 +1,7 @@
 # blobToBase64
 
 ## Description:
-blobをbase64に変換
+convert Blob to Base64 string
 
 ## Installation
 
